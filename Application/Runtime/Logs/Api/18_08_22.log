@@ -1,0 +1,1542 @@
+[ 2018-08-22T11:02:23+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534906943 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T11:02:23+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534906943 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T11:34:29+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15645987777' AND `old_time` > 1534908868 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('8906','15645987777','1534908988') [ RunTime:0.0002s ]
+
+[ 2018-08-22T11:34:29+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15645987777' AND `old_time` > 1534908868 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T11:35:33+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15801217487' AND `old_time` > 1534908933 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T11:35:33+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000038s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15801217487' AND `old_time` > 1534908933 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('4448','15801217487','1534909053') [ RunTime:0.0002s ]
+
+[ 2018-08-22T13:08:57+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13244444' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13244444' AND `old_time` > 1534914537 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T13:08:57+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13244444' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13244444' AND `old_time` > 1534914537 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:17:50+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000018s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-08-22T14:18:26+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534918706 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:18:26+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534918706 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:18:59+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534918739 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0013s ]
+
+[ 2018-08-22T14:18:59+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534918739 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:19:48+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534918788 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2018-08-22T14:19:48+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534918788 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-22T14:19:51+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534918791 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0013s ]
+
+[ 2018-08-22T14:19:51+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534918791 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:21:48+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534918908 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:21:48+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534918908 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:21:49+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534918909 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-22T14:21:49+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534918909 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2018-08-22T14:21:50+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000026s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534918910 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:21:50+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534918910 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:21:53+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534918913 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:21:53+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534918913 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:22:05+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000026s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534918925 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('4689','13222222222','1534919045') [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:22:05+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534918925 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('6724','13222222222','1534919045') [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:36:29+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13244444444' AND `old_time` > 1534919789 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:36:29+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13244444444' AND `old_time` > 1534919789 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('2137','13244444444','1534919909') [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:37:07+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13244444444' AND `old_time` > 1534919827 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:37:07+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13244444444' AND `old_time` > 1534919827 AND `status` = 1 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-22T14:49:41+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222299922' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222299922' AND `old_time` > 1534920581 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:49:41+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222299922' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222299922' AND `old_time` > 1534920581 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:49:47+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222299922' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222299922' AND `old_time` > 1534920587 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-22T14:49:47+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222299922' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222299922' AND `old_time` > 1534920587 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:05+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921145 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:05+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000037s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921145 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:06+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921146 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:06+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000025s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921146 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:06+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921146 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:06+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921146 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:06+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921146 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:06+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921146 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:07+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921147 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:07+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000024s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921147 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:07+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921147 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:07+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921147 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:07+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921147 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:07+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921147 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:07+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921147 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:07+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000024s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921147 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:08+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921148 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:08+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921148 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:08+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921148 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:08+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921148 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:08+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921148 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:08+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921148 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:11+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921151 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T14:59:11+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534921151 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T15:42:57+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15633333333' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15633333333' AND `old_time` > 1534923777 AND `code` = '1432' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T15:42:57+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15633333333' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15633333333' AND `old_time` > 1534923777 AND `code` = '1432' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T15:55:26+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222222222' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534924526 AND `code` = '12231' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T15:55:26+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222222222' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534924526 AND `code` = '12231' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:00:06+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222222222' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534924806 AND `code` = '12231' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:00:06+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222222222' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534924806 AND `code` = '12231' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:04:06+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222222' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222' AND `old_time` > 1534925046 AND `code` = '22222' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:04:06+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222222' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222' AND `old_time` > 1534925046 AND `code` = '22222' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:04:09+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222222' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222' AND `old_time` > 1534925049 AND `code` = '22222' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-22T16:04:09+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222222' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222' AND `old_time` > 1534925049 AND `code` = '22222' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:04:12+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222222' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222' AND `old_time` > 1534925052 AND `code` = '22222' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-22T16:04:12+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222222' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222' AND `old_time` > 1534925052 AND `code` = '22222' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-22T16:04:32+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '123' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '123' AND `old_time` > 1534925072 AND `code` = '233' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-22T16:04:32+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '123' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '123' AND `old_time` > 1534925072 AND `code` = '233' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:04:35+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '123' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '123' AND `old_time` > 1534925075 AND `code` = '233' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:04:35+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '123' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '123' AND `old_time` > 1534925075 AND `code` = '233' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:04:38+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '123' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '123' AND `old_time` > 1534925078 AND `code` = '233' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:04:38+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '123' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '123' AND `old_time` > 1534925078 AND `code` = '233' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:04:42+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '123' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '123' AND `old_time` > 1534925082 AND `code` = '233' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-22T16:04:42+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '123' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '123' AND `old_time` > 1534925082 AND `code` = '233' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:04:52+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '123' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '123' AND `old_time` > 1534925092 AND `code` = '233' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:04:52+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '123' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '123' AND `old_time` > 1534925092 AND `code` = '233' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:05:35+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '123' LIMIT 1   [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '123' AND `old_time` > 1534925135 AND `code` = '233' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-22T16:05:35+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '123' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '123' AND `old_time` > 1534925135 AND `code` = '233' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-22T16:05:49+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222223333' AND `old_time` > 1534925148 AND `status` = 1 LIMIT 1   [ RunTime:0.0012s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('9790','13222223333','1534925268') [ RunTime:0.0003s ]
+
+[ 2018-08-22T16:05:49+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222223333' AND `old_time` > 1534925148 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:05:53+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222223333' AND `old_time` > 1534925153 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:05:53+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222223333' AND `old_time` > 1534925153 AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-22T16:06:31+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13233332222' AND `old_time` > 1534925191 AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('8851','13233332222','1534925311') [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:06:31+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000037s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13233332222' AND `old_time` > 1534925191 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:09:24+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534925364 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('2829','13222222222','1534925484') [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:11:54+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534925513 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('6337','13222222222','1534925633') [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:13:35+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534925615 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:14:46+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534925685 AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('2939','13222222222','1534925805') [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:15:37+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534925736 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:15:58+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13233333333' AND `old_time` > 1534925758 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('3420','13233333333','1534925878') [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:33:51+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15633333390' AND `old_time` > 1534926831 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('9200','15633333390','1534926951') [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:34:37+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15645054811' AND `old_time` > 1534926877 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('6953','15645054811','1534926997') [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:35:02+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15645054811' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15645054811' AND `old_time` > 1534926902 AND `code` = '6953' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 104 行.
+SQL: INSERT INTO `user` (`login_phone`,`password`,`create_time`,`login_time`) VALUES ('15645054811','4297f44b13955235245b2497399d7a93','1534926902','1534926902') [ RunTime:0.0002s ]
+SQL: UPDATE `code` SET `status`='2' WHERE `phone` = '15645054811' AND `status` = 1 [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:35:02+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15645054811' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15645054811' AND `old_time` > 1534926902 AND `code` = '6953' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:37:48+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15645054811' AND `old_time` > 1534927068 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('5674','15645054811','1534927188') [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:38:42+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15645054811' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15645054811' AND `old_time` > 1534927122 AND `code` = '5674' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:38:55+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15645054811' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15645054811' AND `old_time` > 1534927135 AND `code` = '5674' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:40:14+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '16619786845' AND `old_time` > 1534927214 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('9638','16619786845','1534927334') [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:40:38+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '16619786845' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '16619786845' AND `old_time` > 1534927238 AND `code` = '9638' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 104 行.
+SQL: INSERT INTO `user` (`login_phone`,`password`,`create_time`,`login_time`) VALUES ('16619786845','e10adc3949ba59abbe56e057f20f883e','1534927238','1534927238') [ RunTime:0.0002s ]
+SQL: UPDATE `code` SET `status`='2' WHERE `phone` = '16619786845' AND `status` = 1 [ RunTime:0.0003s ]
+
+[ 2018-08-22T16:41:04+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '16619786845' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '16619786845' AND `old_time` > 1534927264 AND `code` = '9638' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:41:54+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '16619786845' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '16619786845' AND `old_time` > 1534927314 AND `code` = '9638' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:42:07+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '16619786845' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '16619786845' AND `old_time` > 1534927327 AND `code` = '9638' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:42:10+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '16619786845' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '16619786845' AND `old_time` > 1534927330 AND `code` = '9638' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:42:31+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '16619786845' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '16619786845' AND `old_time` > 1534927351 AND `code` = '9638' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:43:58+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '16619786845' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '16619786845' AND `old_time` > 1534927438 AND `code` = '9638' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:44:09+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '16619786845' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '16619786845' AND `old_time` > 1534927449 AND `code` = '9638' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:44:56+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '16619786845' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '16619786845' AND `old_time` > 1534927496 AND `code` = '9638' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T16:45:51+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '16619786845' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '16619786845' AND `old_time` > 1534927551 AND `code` = '9638' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T17:06:06+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 149 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15633222222' AND `password` = 'dc960c46c38bd16e953d97cdeefdbc68' LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `user` SET `login_number`='1',`login_time`='1534928766' WHERE `login_phone` = '15633222222' AND `password` = 'dc960c46c38bd16e953d97cdeefdbc68' [ RunTime:0.0002s ]
+
+[ 2018-08-22T17:06:06+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 149 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15633222222' AND `password` = 'dc960c46c38bd16e953d97cdeefdbc68' LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `user` SET `login_number`='1',`login_time`='1534928766' WHERE `login_phone` = '15633222222' AND `password` = 'dc960c46c38bd16e953d97cdeefdbc68' [ RunTime:0.0002s ]
+
+[ 2018-08-22T17:30:15+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+
+[ 2018-08-22T17:32:06+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 149 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222222222' AND `password` = 'f3f4c121847be66d99edad92f9ff03b3' LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `user` SET `login_number`='1',`login_time`='1534930326' WHERE `login_phone` = '13222222222' AND `password` = 'f3f4c121847be66d99edad92f9ff03b3' [ RunTime:0.0002s ]
+
+[ 2018-08-22T17:32:11+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 149 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222222222' AND `password` = 'f3f4c121847be66d99edad92f9ff03b3' LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `user` SET `login_number`='1',`login_time`='1534930331' WHERE `login_phone` = '13222222222' AND `password` = 'f3f4c121847be66d99edad92f9ff03b3' [ RunTime:0.0002s ]
+
+[ 2018-08-22T17:32:25+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 149 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222222222' AND `password` = 'f3f4c121847be66d99edad92f9ff03b3' LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `user` SET `login_number`='1',`login_time`='1534930345' WHERE `login_phone` = '13222222222' AND `password` = 'f3f4c121847be66d99edad92f9ff03b3' [ RunTime:0.0002s ]
+
+[ 2018-08-22T17:32:34+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534930354 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('5282','13222222222','1534930474') [ RunTime:0.0002s ]
+
+[ 2018-08-22T17:36:39+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15645054811' AND `old_time` > 1534930598 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('6929','15645054811','1534930718') [ RunTime:0.0002s ]
+
+[ 2018-08-22T17:37:01+08:00 ] 123.118.123.78 /Api/Interface/codeLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15645054811' AND `old_time` > 1534930621 AND `code` = '6929' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15645054811' LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `user` SET `login_number`='1',`login_time`='1534930621' WHERE `login_phone` = '15645054811' [ RunTime:0.0002s ]
+SQL: UPDATE `code` SET `status`='2' WHERE `phone` = '15645054811' AND `status` = 1 [ RunTime:0.0002s ]
+
+[ 2018-08-22T17:40:19+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15645054811' AND `old_time` > 1534930819 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('7394','15645054811','1534930939') [ RunTime:0.0002s ]
+
+[ 2018-08-22T17:40:41+08:00 ] 123.118.123.78 /Api/Interface/codeLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15645054811' AND `old_time` > 1534930841 AND `code` = '7394' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15645054811' LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `user` SET `login_number`='2',`login_time`='1534930841' WHERE `login_phone` = '15645054811' [ RunTime:0.0002s ]
+SQL: UPDATE `code` SET `status`='2' WHERE `phone` = '15645054811' AND `status` = 1 [ RunTime:0.0002s ]
+
+[ 2018-08-22T17:47:24+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 149 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15645054811' AND `password` = '4297f44b13955235245b2497399d7a93' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T17:47:32+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 149 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15645054811' AND `password` = '4297f44b13955235245b2497399d7a93' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Uninitialized string offset: 62 /var/www/html/minsadmin/Application/Common/Common/function.php 第 28 行.
+
+[ 2018-08-22T17:47:33+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 149 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15645054811' AND `password` = '4297f44b13955235245b2497399d7a93' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-22T17:49:31+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 149 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15645054811' AND `password` = '4297f44b13955235245b2497399d7a93' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-22T17:49:33+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000026s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 149 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15645054811' AND `password` = '4297f44b13955235245b2497399d7a93' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-22T17:50:17+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 149 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15645054811' AND `password` = '4297f44b13955235245b2497399d7a93' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T17:51:04+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 149 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15645054811' AND `password` = '4297f44b13955235245b2497399d7a93' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-22T17:52:59+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 149 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15645054811' AND `password` = '4297f44b13955235245b2497399d7a93' LIMIT 1   [ RunTime:0.0002s ]
+

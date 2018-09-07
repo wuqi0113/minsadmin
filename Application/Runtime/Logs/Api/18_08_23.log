@@ -1,0 +1,2029 @@
+[ 2018-08-23T10:56:42+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000048s ]
+
+[ 2018-08-23T11:26:39+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:27:08+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:30:08+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:31:34+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:33:08+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:33:50+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:35:14+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:36:48+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:36:58+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:38:49+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:39:14+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:39:19+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:39:25+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:40:15+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:42:16+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:42:39+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:42:42+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:42:51+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:43:09+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:44:32+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000038s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:44:41+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:45:18+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:45:55+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0003s ]
+
+[ 2018-08-23T11:47:13+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:47:16+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:48:00+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:48:41+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:49:14+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:49:21+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000038s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:49:28+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:49:33+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:49:55+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:50:50+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:53:20+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:54:01+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:55:05+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:55:41+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:57:19+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:59:13+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T11:59:28+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T12:02:53+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T12:03:08+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T12:03:25+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T12:05:41+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T12:05:55+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:18:04+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:18:34+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:19:34+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:19:52+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:23:56+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:24:05+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:24:15+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:24:29+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:25:09+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000038s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:26:32+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:26:34+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:26:41+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:27:30+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:28:35+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:28:51+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:29:13+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:36:24+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:38:56+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:39:56+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:40:28+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:42:39+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:43:19+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:43:23+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:54:01+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:54:03+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000026s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:54:39+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:55:21+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:55:23+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:55:35+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:55:50+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:55:57+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:56:33+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:56:40+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:57:21+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:57:28+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T13:57:32+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:35:48+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:35:53+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:35:56+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:36:19+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:36:39+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:36:49+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:36:53+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:36:58+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:37:02+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:37:05+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:37:07+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:37:10+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:37:31+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:37:47+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:40:19+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:41:45+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:42:08+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:45:30+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:46:11+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:46:15+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:46:44+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:46:49+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:47:08+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000037s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:47:10+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:47:34+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:49:15+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:50:56+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:55:58+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:56:00+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:56:03+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:58:58+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:59:06+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:59:08+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000026s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:59:11+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T15:59:29+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:00:56+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:01:34+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:07:11+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:07:14+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:07:33+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:08:08+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:08:15+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:09:12+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:09:17+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:09:25+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:09:34+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:09:40+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:10:35+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:10:40+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:10:43+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:11:22+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:14:45+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:16:37+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:18:24+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:18:34+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:19:33+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:20:12+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:22:48+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:22:48+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000024s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:24:36+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:24:36+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000024s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:28:56+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:28:56+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000025s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:28:58+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:28:58+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:29:36+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0013s ]
+
+[ 2018-08-23T16:29:36+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:30:14+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:30:14+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:30:24+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:30:24+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000025s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:31:02+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:31:02+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000024s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000023s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:35:17+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:35:17+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:35:46+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:35:46+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000025s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:38:04+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000037s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:38:04+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:38:09+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:38:09+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:52:04+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0006s ]
+
+[ 2018-08-23T16:52:04+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:52:15+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:52:15+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:55:12+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0005s ]
+
+[ 2018-08-23T16:55:12+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0015s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:56:23+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:56:24+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:56:27+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0003s ]
+
+[ 2018-08-23T16:56:27+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:56:40+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:56:40+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:56:43+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T16:56:43+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0001s ]
+
+[ 2018-08-23T17:00:44+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T17:00:44+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T17:01:26+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T17:01:26+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000037s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T17:01:46+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T17:01:46+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T17:01:49+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T17:01:49+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T17:03:02+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0003s ]
+
+[ 2018-08-23T17:03:02+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T17:03:06+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T17:03:06+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000024s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T17:07:23+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T17:07:23+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T17:17:58+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T17:17:58+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000024s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T17:18:05+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000037s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T17:18:05+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T17:36:28+08:00 ] 123.118.123.78 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-08-23T17:36:28+08:00 ] 123.118.123.78 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000038s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0005s ]
+

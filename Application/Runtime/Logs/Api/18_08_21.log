@@ -1,0 +1,1521 @@
+[ 2018-08-21T09:35:25+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001008s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0280s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+
+[ 2018-08-21T09:35:27+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0167s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+
+[ 2018-08-21T09:35:27+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+
+[ 2018-08-21T09:35:28+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0213s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+
+[ 2018-08-21T10:32:54+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+
+[ 2018-08-21T10:33:00+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+
+[ 2018-08-21T10:34:07+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 24 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 28 行.
+
+[ 2018-08-21T10:35:29+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 25 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 29 行.
+
+[ 2018-08-21T10:41:47+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000050s ]
+
+[ 2018-08-21T10:41:59+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000045s ]
+
+[ 2018-08-21T10:42:11+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000041s ]
+
+[ 2018-08-21T10:42:15+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000038s ]
+
+[ 2018-08-21T10:42:45+08:00 ] 61.151.225.189 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000018s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-08-21T11:17:59+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000041s ]
+
+[ 2018-08-21T11:18:00+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000013s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-08-21T11:29:19+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-08-21T11:31:34+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000036s ]
+
+[ 2018-08-21T11:31:41+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000018s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000034s ]
+
+[ 2018-08-21T11:32:46+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-08-21T11:33:08+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 26 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 30 行.
+
+[ 2018-08-21T11:34:14+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-08-21T11:34:14+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000033s ]
+
+[ 2018-08-21T11:35:44+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+
+[ 2018-08-21T11:36:53+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-08-21T11:37:03+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+
+[ 2018-08-21T11:37:26+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 26 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 30 行.
+
+[ 2018-08-21T11:43:23+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-08-21T11:43:32+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 26 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 30 行.
+
+[ 2018-08-21T11:44:29+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+
+[ 2018-08-21T11:44:39+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 26 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 30 行.
+
+[ 2018-08-21T11:45:33+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+
+[ 2018-08-21T11:45:42+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 26 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 30 行.
+
+[ 2018-08-21T11:46:08+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 26 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 30 行.
+
+[ 2018-08-21T11:46:14+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+
+[ 2018-08-21T11:46:30+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+
+[ 2018-08-21T11:46:38+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 26 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 30 行.
+
+[ 2018-08-21T11:46:58+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-08-21T11:47:01+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+
+[ 2018-08-21T11:47:09+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 26 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 30 行.
+
+[ 2018-08-21T11:56:08+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+
+[ 2018-08-21T11:56:50+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+
+[ 2018-08-21T11:56:59+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '111' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 73 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 78 行.
+
+[ 2018-08-21T13:49:59+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-08-21T13:50:15+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+
+[ 2018-08-21T13:50:54+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+
+[ 2018-08-21T13:51:31+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+
+[ 2018-08-21T13:52:08+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-08-21T13:52:33+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 31 行.
+
+[ 2018-08-21T13:52:49+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222222222' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 73 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 78 行.
+
+[ 2018-08-21T13:54:45+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 31 行.
+
+[ 2018-08-21T13:54:59+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15611111111' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 73 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 78 行.
+
+[ 2018-08-21T13:59:28+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-08-21T14:00:18+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000038s ]
+
+[ 2018-08-21T14:00:25+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+
+[ 2018-08-21T14:01:48+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 31 行.
+
+[ 2018-08-21T14:02:08+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 78 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 83 行.
+
+[ 2018-08-21T14:02:23+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 31 行.
+
+[ 2018-08-21T14:02:38+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 31 行.
+
+[ 2018-08-21T14:02:40+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 31 行.
+
+[ 2018-08-21T14:05:08+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 31 行.
+
+[ 2018-08-21T14:06:29+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+
+[ 2018-08-21T14:10:38+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 31 行.
+
+[ 2018-08-21T14:10:44+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 31 行.
+
+[ 2018-08-21T14:11:21+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 31 行.
+
+[ 2018-08-21T14:11:26+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 31 行.
+
+[ 2018-08-21T14:11:32+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 31 行.
+
+[ 2018-08-21T14:11:56+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-08-21T14:12:10+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+
+[ 2018-08-21T14:12:15+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+
+[ 2018-08-21T14:12:44+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+
+[ 2018-08-21T14:17:51+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 73 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 78 行.
+
+[ 2018-08-21T14:17:57+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 73 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 78 行.
+
+[ 2018-08-21T14:22:52+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 73 行.
+NOTIC: [8] Undefined index: code /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 78 行.
+
+[ 2018-08-21T14:24:54+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-08-21T14:24:58+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-08-21T14:36:51+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-08-21T14:36:51+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000024s ]
+
+[ 2018-08-21T14:37:57+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+
+[ 2018-08-21T14:38:01+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+
+[ 2018-08-21T14:38:08+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+
+[ 2018-08-21T14:43:28+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+
+[ 2018-08-21T14:43:36+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+
+[ 2018-08-21T14:43:53+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+
+[ 2018-08-21T14:44:11+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+
+[ 2018-08-21T14:44:19+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+
+[ 2018-08-21T14:44:37+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+
+[ 2018-08-21T14:44:47+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+
+[ 2018-08-21T14:59:10+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 27 行.
+
+[ 2018-08-21T15:13:21+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13244443333' AND `old_time` > 1534835601 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('5710','13244443333','1534835721') [ RunTime:0.0002s ]
+
+[ 2018-08-21T15:13:40+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13244443333' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13244443333' AND `old_time` > 1534835620 AND `code` = '5710' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 115 行.
+SQL: INSERT INTO `code` () VALUES () [ RunTime:0.0001s ]
+SQL: UPDATE `code` SET `status`='2' WHERE `phone` = '13244443333' AND `status` = 1 [ RunTime:0.0002s ]
+
+[ 2018-08-21T15:15:17+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13233333333' AND `old_time` > 1534835717 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('9758','13233333333','1534835837') [ RunTime:0.0002s ]
+
+[ 2018-08-21T15:16:20+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13244445555' AND `old_time` > 1534835780 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('4477','13244445555','1534835900') [ RunTime:0.0002s ]
+
+[ 2018-08-21T15:16:30+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13244445555' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13244445555' AND `old_time` > 1534835790 AND `code` = '4477' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 115 行.
+SQL: INSERT INTO `user` (`login_phone`,`password`,`create_time`,`login_time`,`login_number`) VALUES ('13244445555','46f94c8de14fb36680850768ff1b7f2a','1534835790','1534835790','1') [ RunTime:0.0002s ]
+SQL: UPDATE `code` SET `status`='2' WHERE `phone` = '13244445555' AND `status` = 1 [ RunTime:0.0002s ]
+
+[ 2018-08-21T15:17:35+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13244445555' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13244445555' AND `old_time` > 1534835855 AND `code` = '4477' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T15:59:08+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15645555555' AND `old_time` > 1534838348 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('3428','15645555555','1534838468') [ RunTime:0.0002s ]
+
+[ 2018-08-21T16:06:53+08:00 ] 123.118.123.78 /Api/Interface/codeLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15233333333' AND `old_time` > 1534838813 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T16:07:21+08:00 ] 123.118.123.78 /Api/Interface/codeLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13255554444' AND `old_time` > 1534838841 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T16:08:01+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15655556666' AND `old_time` > 1534838881 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('6914','15655556666','1534839001') [ RunTime:0.0002s ]
+
+[ 2018-08-21T16:08:23+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15655556666' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15655556666' AND `old_time` > 1534838903 AND `code` = '6914' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 92 行.
+SQL: INSERT INTO `user` (`login_phone`,`password`,`create_time`,`login_time`) VALUES ('15655556666','4297f44b13955235245b2497399d7a93','1534838903','1534838903') [ RunTime:0.0002s ]
+SQL: UPDATE `code` SET `status`='2' WHERE `phone` = '15655556666' AND `status` = 1 [ RunTime:0.0002s ]
+
+[ 2018-08-21T16:09:25+08:00 ] 123.118.123.78 /Api/Interface/codeLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15655556666' AND `old_time` > 1534838965 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T16:11:34+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '15655554444' AND `old_time` > 1534839094 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('1107','15655554444','1534839214') [ RunTime:0.0002s ]
+
+[ 2018-08-21T16:18:05+08:00 ] 123.118.123.78 /Api/Interface/codeLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '123333' AND `old_time` > 1534839485 AND `code` = '2222' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T16:18:10+08:00 ] 123.118.123.78 /Api/Interface/codeLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '123333' AND `old_time` > 1534839490 AND `code` = '2222' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T16:24:42+08:00 ] 123.118.123.78 /Api/Interface/codeLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '123123' AND `old_time` > 1534839882 AND `code` = '123313' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T16:25:36+08:00 ] 123.118.123.78 /Api/Interface/codeLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '123123' AND `old_time` > 1534839936 AND `code` = '123313' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T16:29:40+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-08-21T16:29:51+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-08-21T16:37:10+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+
+[ 2018-08-21T16:37:23+08:00 ] 123.118.123.78 /Api/Interface/codeLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000049s ]
+
+[ 2018-08-21T16:49:22+08:00 ] 123.118.123.78 /Api/Interface/codeLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000072s ]
+
+[ 2018-08-21T16:49:32+08:00 ] 123.118.123.78 /Api/Interface/codeLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000016s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-08-21T16:53:22+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+
+[ 2018-08-21T16:53:22+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-08-21T16:54:03+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000030s ]
+
+[ 2018-08-21T16:54:49+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 137 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13244445555' AND `password` = '46f94c8de14fb36680850768ff1b7f2a' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T16:55:37+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13244445555' AND `old_time` > 1534841737 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('9389','13244445555','1534841857') [ RunTime:0.0002s ]
+
+[ 2018-08-21T16:55:44+08:00 ] 123.118.123.78 /Api/Interface/codeLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13244445555' AND `old_time` > 1534841744 AND `code` = '9389' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13244445555' LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `user` SET `login_number`='2',`login_time`='1534841744' WHERE `login_phone` = '13244445555' [ RunTime:0.0002s ]
+SQL: UPDATE `code` SET `status`='2' WHERE `phone` = '13244445555' AND `status` = 1 [ RunTime:0.0002s ]
+
+[ 2018-08-21T16:59:05+08:00 ] 123.118.123.78 /Api/Interface/pwdLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+
+[ 2018-08-21T16:59:14+08:00 ] 123.118.123.78 /Api/Interface/codeLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '123123' AND `old_time` > 1534841954 AND `code` = '1222' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:05:02+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534842302 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('2388','13222222222','1534842422') [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:18:06+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222332222' AND `old_time` > 1534843086 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('1067','13222332222','1534843206') [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:18:06+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222332222' AND `old_time` > 1534843086 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:31:00+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534843860 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('4419','13222222222','1534843980') [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:31:00+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534843860 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:32:30+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534843950 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:32:30+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000025s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534843950 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:32:47+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222222222' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534843967 AND `code` = '4419' AND `status` = 1 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-21T17:32:47+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222222222' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534843967 AND `code` = '4419' AND `status` = 1 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-21T17:35:41+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '1322222222' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '1322222222' AND `old_time` > 1534844141 AND `code` = '2222' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:35:41+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000025s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '1322222222' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '1322222222' AND `old_time` > 1534844141 AND `code` = '2222' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:40:11+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534844411 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-08-21T17:40:11+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534844411 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:40:20+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534844420 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:40:20+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000024s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534844420 AND `code` = '' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:40:22+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534844422 AND `code` = '222' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:40:22+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000026s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534844422 AND `code` = '222' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:40:25+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534844425 AND `code` = '222' AND `status` = 1 LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2018-08-21T17:40:25+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000025s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '' AND `old_time` > 1534844425 AND `code` = '222' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:46:33+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13233333333' AND `old_time` > 1534844793 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('3035','13233333333','1534844913') [ RunTime:0.0003s ]
+
+[ 2018-08-21T17:46:33+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13233333333' AND `old_time` > 1534844793 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:46:50+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13233333333' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13233333333' AND `old_time` > 1534844810 AND `code` = '3035' AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 92 行.
+SQL: INSERT INTO `user` (`login_phone`,`password`,`create_time`,`login_time`) VALUES ('13233333333','4297f44b13955235245b2497399d7a93','1534844810','1534844810') [ RunTime:0.0002s ]
+SQL: UPDATE `code` SET `status`='2' WHERE `phone` = '13233333333' AND `status` = 1 [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:46:50+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13233333333' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13233333333' AND `old_time` > 1534844810 AND `code` = '3035' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:54:23+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222223333' AND `old_time` > 1534845263 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('3542','13222223333','1534845383') [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:54:23+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000025s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222223333' AND `old_time` > 1534845263 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:54:33+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222223333' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222223333' AND `old_time` > 1534845273 AND `code` = '3542' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 92 行.
+SQL: INSERT INTO `user` (`login_phone`,`password`,`create_time`,`login_time`) VALUES ('13222223333','4297f44b13955235245b2497399d7a93','1534845273','1534845273') [ RunTime:0.0002s ]
+SQL: UPDATE `code` SET `status`='2' WHERE `phone` = '13222223333' AND `status` = 1 [ RunTime:0.0002s ]
+
+[ 2018-08-21T17:54:33+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222223333' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222223333' AND `old_time` > 1534845273 AND `code` = '3542' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T18:02:00+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534845720 AND `status` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: INSERT INTO `code` (`code`,`phone`,`old_time`) VALUES ('2576','13222222222','1534845840') [ RunTime:0.0002s ]
+
+[ 2018-08-21T18:02:00+08:00 ] 123.118.123.78 /Api/Interface/getCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534845720 AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-08-21T18:02:08+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000038s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222222222' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534845728 AND `code` = '2576' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 92 行.
+SQL: INSERT INTO `user` (`login_phone`,`password`,`create_time`,`login_time`) VALUES ('13222222222','202cb962ac59075b964b07152d234b70','1534845728','1534845728') [ RunTime:0.0002s ]
+SQL: UPDATE `code` SET `status`='2' WHERE `phone` = '13222222222' AND `status` = 1 [ RunTime:0.0002s ]
+
+[ 2018-08-21T18:02:08+08:00 ] 123.118.123.78 /Api/Interface/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '13222222222' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `code` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `code` WHERE `phone` = '13222222222' AND `old_time` > 1534845728 AND `code` = '2576' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: ajax /var/www/html/minsadmin/Application/Api/Controller/InterfaceController.class.php 第 92 行.
+SQL: INSERT INTO `user` (`login_phone`,`password`,`create_time`,`login_time`) VALUES ('13222222222','202cb962ac59075b964b07152d234b70','1534845728','1534845728') [ RunTime:0.0002s ]
+SQL: UPDATE `code` SET `status`='2' WHERE `phone` = '13222222222' AND `status` = 1 [ RunTime:0.0003s ]
+

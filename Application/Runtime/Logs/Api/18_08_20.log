@@ -1,0 +1,483 @@
+[ 2018-08-20T15:03:57+08:00 ] 127.0.0.1 /Api/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000716s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000795s ]
+
+[ 2018-08-20T15:03:59+08:00 ] 127.0.0.1 /Api/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000608s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000738s ]
+
+[ 2018-08-20T15:27:30+08:00 ] 127.0.0.1 /Api/Interface/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000639s ]
+
+[ 2018-08-20T15:33:31+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000618s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000682s ]
+
+[ 2018-08-20T15:33:48+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000659s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000736s ]
+
+[ 2018-08-20T15:33:53+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000480s ]
+
+[ 2018-08-20T15:38:21+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0273s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-20T15:39:44+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0166s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-08-20T15:39:52+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0184s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-08-20T15:51:07+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0235s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = 15801217487 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000610s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000659s ]
+
+[ 2018-08-20T15:51:43+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000423s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000689s ]
+
+[ 2018-08-20T15:52:11+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0172s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217486' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000680s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000751s ]
+
+[ 2018-08-20T15:52:23+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0185s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000601s ]
+
+[ 2018-08-20T15:52:41+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0212s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: SESSION D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000736s ]
+
+[ 2018-08-20T15:52:51+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0152s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 24 行.
+NOTIC: [8] Undefined variable: SESSION D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000891s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000961s ]
+
+[ 2018-08-20T15:53:23+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000913s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-08-20T15:53:36+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000660s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 24 行.
+NOTIC: [8] Undefined index: 15801217486 D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000532s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000576s ]
+
+[ 2018-08-20T15:54:23+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0190s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000860s ]
+
+[ 2018-08-20T15:54:37+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000603s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000601s ]
+
+[ 2018-08-20T15:55:18+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0212s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = 15801217487 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000757s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000838s ]
+
+[ 2018-08-20T15:56:22+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0149s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000659s ]
+
+[ 2018-08-20T15:56:37+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0011s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000748s ]
+
+[ 2018-08-20T15:56:46+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0200s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000801s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000882s ]
+
+[ 2018-08-20T15:57:13+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000522s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000569s ]
+
+[ 2018-08-20T16:02:27+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0164s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000790s ]
+
+[ 2018-08-20T16:08:48+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0167s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000835s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000916s ]
+
+[ 2018-08-20T16:08:54+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000571s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000622s ]
+
+[ 2018-08-20T16:13:18+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0179s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+
+[ 2018-08-20T16:13:22+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0128s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+
+[ 2018-08-20T16:13:26+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0141s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+
+[ 2018-08-20T16:15:33+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000209s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0167s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+
+[ 2018-08-20T16:15:36+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+
+[ 2018-08-20T16:15:38+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0198s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+
+[ 2018-08-20T16:15:40+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0176s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+
+[ 2018-08-20T16:15:41+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0209s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+
+[ 2018-08-20T16:15:42+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0167s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+
+[ 2018-08-20T16:15:43+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0151s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+
+[ 2018-08-20T16:15:45+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0188s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+
+[ 2018-08-20T16:15:46+08:00 ] 127.0.0.1 /Api/Interface/getcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `user` WHERE `login_phone` = '15801217487' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: ajax D:\phpStudy\PHPTutorial\WWW\mins\Application\Api\Controller\InterfaceController.class.php 第 25 行.
+

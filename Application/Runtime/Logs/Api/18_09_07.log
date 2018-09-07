@@ -1,0 +1,589 @@
+[ 2018-09-07T12:17:11+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T12:17:11+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T12:17:13+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000024s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T12:17:13+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T12:17:28+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000024s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0003s ]
+
+[ 2018-09-07T12:17:28+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T12:17:33+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000037s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T12:17:33+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T12:17:38+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000025s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T12:17:38+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T12:17:58+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0007s ]
+
+[ 2018-09-07T12:17:58+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T12:18:51+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T12:18:51+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:17:48+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:17:48+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:17:53+08:00 ] 123.118.127.254 /Api/Interface/getInsuranceDetails
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.0007s ]
+SQL: SELECT SUM(order_money) AS tp_Sum FROM `order` WHERE `insurance_id` = 1 AND `status` = 4 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` WHERE `insurance_id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` WHERE `insurance_id` = 1 AND `create_time` >= 1535644800 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `insured_amount` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `insured_amount` WHERE `insurance_id` = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `insurance` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:17:55+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:17:55+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:17:59+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:17:59+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:19:47+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:19:47+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:20:06+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000038s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:20:06+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:20:50+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:20:50+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:21:05+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000032s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:21:05+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000025s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:25:23+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:25:23+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:26:18+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0008s ]
+
+[ 2018-09-07T13:26:18+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000024s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:27:13+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:27:13+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:27:36+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000027s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0003s ]
+
+[ 2018-09-07T13:27:36+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:40:56+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:40:56+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000028s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:46:37+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:46:37+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:46:42+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:46:42+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000033s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:46:46+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0006s ]
+
+[ 2018-09-07T13:46:46+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:49:53+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:49:53+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:51:00+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000031s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:51:00+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:53:23+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000034s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:53:23+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:54:10+08:00 ] 123.118.127.254 /Api/Interface/getLogo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000029s ]
+SQL: SHOW COLUMNS FROM `logo` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `logo` WHERE `status` = 1  [ RunTime:0.0002s ]
+
+[ 2018-09-07T13:54:10+08:00 ] 123.118.127.254 /Api/Interface/getIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000035s ]
+SQL: SHOW COLUMNS FROM `insurance` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `user_buy_insurance` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user_buy_insurance` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `insurance` WHERE `status` = 1  [ RunTime:0.0002s ]
+
